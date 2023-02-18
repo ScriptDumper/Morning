@@ -1,0 +1,1 @@
+game:GetService("Lighting").TimeOfDay = '13:00:00'
